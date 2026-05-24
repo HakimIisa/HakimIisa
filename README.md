@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sheen Bazaar](https://github.com/HakimIisa/sheen-bazaar)
 - 🌱 I’m currently learning **Advanced AI-first product development and production-grade LLM workflows**
-- ❨ I’m looking to collaborate on [Full-Stack Web & Mobile Apps](https://github.com/HakimIisa)
+-  I’m looking to collaborate on [Full-Stack Web & Mobile Apps](https://github.com/HakimIisa)
 - 👨‍💻 All of my projects are available at [https://github.com/HakimIisa](https://github.com/HakimIisa)
 - 💬 Ask me about **Next.js, React, Flutter, Firebase, AWS, and AI API Integration**
 - 📫 How to reach me **hakimohdiisa@gmail.com**
@@ -15,22 +15,22 @@
 ## 🏆 Flagship Shipped Projects
 
 ### 📱 [Sheen Bazaar](https://github.com/HakimIisa/sheen-bazaar) — AI-Native Multi-Vendor Mobile Marketplace
-- [cite_start]Built and deployed a comprehensive three-role mobile marketplace (Customer, Vendor, Admin) using Flutter and Firebase[cite: 49].
-- [cite_start]Engineered role-based security access controls, real-time Firestore synchronization, and a backend checkout system that automatically splits orders per individual vendor[cite: 49, 51].
-- [cite_start]Integrated a Gemini 2.5 Flash AI shopping assistant hosted via Firebase Cloud Functions using context caching optimization[cite: 52].
-- [cite_start]Developed a Gemini Vision structured metadata generator that converts product images into precise, predictable JSON payloads[cite: 52].
+- Built and deployed a comprehensive three-role mobile marketplace (Customer, Vendor, Admin) using Flutter and Firebase[cite: 49].
+- Engineered role-based security access controls, real-time Firestore synchronization, and a backend checkout system that automatically splits orders per individual vendor[cite: 49, 51].
+- Integrated a Gemini 2.5 Flash AI shopping assistant hosted via Firebase Cloud Functions using context caching optimization[cite: 52].
+- Developed a Gemini Vision structured metadata generator that converts product images into precise, predictable JSON payloads[cite: 52].
 
 ### 🏋️ [GymTrack](https://github.com/HakimIisa/Gymtrack-owner) — Hybrid Fitness Operations & Management Platform
-- [cite_start]Architected and shipped a full-stack gym operations platform using Next.js and Firebase[cite: 55].
-- [cite_start]Deployed a unified codebase concurrently to Web, Android APK (Capacitor), and Windows Desktop (Electron) layouts[cite: 55].
-- [cite_start]Built secure member management directories, trainer assignments, and a PIN-protected financial analytics matrix[cite: 55].
-- [cite_start]Implemented automated daily scheduled Firebase Cloud Functions to manage membership statuses and trigger real-time MSG91 SMS alerts without manual intervention[cite: 55].
+- Architected and shipped a full-stack gym operations platform using Next.js and Firebase[cite: 55].
+- Deployed a unified codebase concurrently to Web, Android APK (Capacitor), and Windows Desktop (Electron) layouts[cite: 55].
+- Built secure member management directories, trainer assignments, and a PIN-protected financial analytics matrix[cite: 55].
+- Implemented automated daily scheduled Firebase Cloud Functions to manage membership statuses and trigger real-time MSG91 SMS alerts without manual intervention[cite: 55].
 
 ### 🎨 [Traam and Beyond](https://github.com/HakimIisa/traam-and-beyond-website) — High-Performance Kashmiri Handcraft Platform
-- [cite_start]Developed a full-stack Kashmiri handcraft showcase and content platform using Next.js and Firebase[cite: 58].
-- [cite_start]Designed an integrated administrative dashboard to seamlessly manage public categories, item detail routing pathways, and incoming customer inquiries[cite: 58].
-- [cite_start]Engineered fluid, scroll-driven frontend animations by harnessing Framer Motion calculations (`useScroll` and `useTransform`)[cite: 59].
-- [cite_start]Delivered high-performance, cross-fading desktop and mobile layouts featuring bidirectional sticky timelines[cite: 59].
+- Developed a full-stack Kashmiri handcraft showcase and content platform using Next.js and Firebase[cite: 58].
+- Designed an integrated administrative dashboard to seamlessly manage public categories, item detail routing pathways, and incoming customer inquiries[cite: 58].
+- Engineered fluid, scroll-driven frontend animations by harnessing Framer Motion calculations (`useScroll` and `useTransform`)[cite: 59].
+- Delivered high-performance, cross-fading desktop and mobile layouts featuring bidirectional sticky timelines[cite: 59].
 
 ---
 
