@@ -15,22 +15,22 @@
 ## 🏆 Flagship Shipped Projects
 
 ### 📱 [Sheen Bazaar](https://github.com/HakimIisa/sheen-bazaar) — AI-Native Multi-Vendor Mobile Marketplace
-- Built and deployed a comprehensive three-role mobile marketplace (Customer, Vendor, Admin) using Flutter and Firebase[cite: 49].
-- Engineered role-based security access controls, real-time Firestore synchronization, and a backend checkout system that automatically splits orders per individual vendor[cite: 49, 51].
-- Integrated a Gemini 2.5 Flash AI shopping assistant hosted via Firebase Cloud Functions using context caching optimization[cite: 52].
-- Developed a Gemini Vision structured metadata generator that converts product images into precise, predictable JSON payloads[cite: 52].
+- Built and deployed a comprehensive three-role mobile marketplace (Customer, Vendor, Admin) using Flutter and Firebase.
+- Engineered role-based security access controls, real-time Firestore synchronization, and a backend checkout system that automatically splits orders per individual vendor.
+- Integrated a Gemini 2.5 Flash AI shopping assistant hosted via Firebase Cloud Functions using context caching optimization.
+- Developed a Gemini Vision structured metadata generator that converts product images into precise, predictable JSON payloads.
 
 ### 🏋️ [GymTrack](https://github.com/HakimIisa/Gymtrack-owner) — Hybrid Fitness Operations & Management Platform
-- Architected and shipped a full-stack gym operations platform using Next.js and Firebase[cite: 55].
-- Deployed a unified codebase concurrently to Web, Android APK (Capacitor), and Windows Desktop (Electron) layouts[cite: 55].
-- Built secure member management directories, trainer assignments, and a PIN-protected financial analytics matrix[cite: 55].
-- Implemented automated daily scheduled Firebase Cloud Functions to manage membership statuses and trigger real-time MSG91 SMS alerts without manual intervention[cite: 55].
+- Architected and shipped a full-stack gym operations platform using Next.js and Firebase.
+- Deployed a unified codebase concurrently to Web, Android APK (Capacitor), and Windows Desktop (Electron) layouts.
+- Built secure member management directories, trainer assignments, and a PIN-protected financial analytics matrix.
+- Implemented automated daily scheduled Firebase Cloud Functions to manage membership statuses and trigger real-time MSG91 SMS alerts without manual intervention.
 
 ### 🎨 [Traam and Beyond](https://github.com/HakimIisa/traam-and-beyond-website) — High-Performance Kashmiri Handcraft Platform
-- Developed a full-stack Kashmiri handcraft showcase and content platform using Next.js and Firebase[cite: 58].
-- Designed an integrated administrative dashboard to seamlessly manage public categories, item detail routing pathways, and incoming customer inquiries[cite: 58].
-- Engineered fluid, scroll-driven frontend animations by harnessing Framer Motion calculations (`useScroll` and `useTransform`)[cite: 59].
-- Delivered high-performance, cross-fading desktop and mobile layouts featuring bidirectional sticky timelines[cite: 59].
+- Developed a full-stack Kashmiri handcraft showcase and content platform using Next.js and Firebase.
+- Designed an integrated administrative dashboard to seamlessly manage public categories, item detail routing pathways, and incoming customer inquiries.
+- Engineered fluid, scroll-driven frontend animations by harnessing Framer Motion calculations (`useScroll` and `useTransform`).
+- Delivered high-performance, cross-fading desktop and mobile layouts featuring bidirectional sticky timelines.
 
 ---
 
