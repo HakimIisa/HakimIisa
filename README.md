@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hakimohdiisa@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/mohammad-iisa-hakim-099863362](https://linkedin.com/in/mohammad-iisa-hakim-099863362)
+- 📄 Know about my experiences [https://www.linkedin.com/in/hakimiisa/](https://www.linkedin.com/in/hakimiisa/)
 
 - ⚡ Fun fact **I can calculate scroll-driven UI timelines in Framer Motion, play guitar, and handle serverless infrastructure cron automation seamlessly.**
 
